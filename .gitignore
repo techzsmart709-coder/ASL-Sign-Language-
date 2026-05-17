@@ -1,0 +1,12 @@
+# Ignore dataset video files (Uploaded to Kaggle instead)
+dataset/videos/
+*.mp4
+
+# Python cache and environments
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Raw unneeded lists
+unused_videos.txt
